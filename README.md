@@ -8,6 +8,8 @@
 - **Swift** for iOS app development
 - **Java** for scalable software solutions
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ## 🧠 Featured Project
 - Gas Price Predictor  
   Advanced ML-powered tool for forecasting gas prices. Applying GenAI to solve real-world problems!
@@ -26,8 +28,11 @@
 - 🎶 Music lover
 - 🍜 Always exploring new food spots
 
+
 ---
 
 > *“Building smarter, more creative tech—one line at a time.”*
 
 <!-- Let's connect and collaborate on GenAI, sports analytics, or any cool project! -->
+
+
