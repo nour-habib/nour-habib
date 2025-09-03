@@ -8,7 +8,7 @@
 - **Swift** for iOS app development
 - **Java** for scalable software solutions
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-habib&hide_progress=false)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-habib&hide_progress=false&theme=radical)
 
 ## 🧠 Featured Project
 - Gas Price Predictor  
