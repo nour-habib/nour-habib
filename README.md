@@ -11,14 +11,15 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-habib&hide_progress=false&theme=dark)
 
 ## 🧠 Featured Project
+- SportsIntelligence
+- Verifact
 - Gas Price Predictor  
-  Advanced ML-powered tool for forecasting gas prices. Applying GenAI to solve real-world problems!
+  * ML-powered tool for forecasting gas prices.
+
 
 ## 🌟 Favorite Repositories
-- [SportsIntelligenceAgent](https://github.com/nour-habib/SportsIntelligenceAgent)
 - [sports-scribe](https://github.com/nour-habib/sports-scribe)
 - [verifact](https://github.com/nour-habib/verifact)
-- [smart-notes-angular](https://github.com/nour-habib/smart-notes-angular)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nourhabib23/)
