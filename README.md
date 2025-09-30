@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nour Habib!
 
-🚀 **GenAI Developer** passionate about building intelligent systems and creative solutions.
+🚀 **GenAI Developer** passionate about researching and building creative, intelligent systems
 
 ## 🛠️ Skills
 - **Python** for data science, AI, and backend development
