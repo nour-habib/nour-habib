@@ -4,9 +4,9 @@
 
 ## 🛠️ Skills
 - **Python** for data science, AI, and backend development
-- **Angular** for dynamic web applications
+- **Angular** for dynamic web applications (JavaScript, TypeScript)
 - **Swift** for iOS app development
-- **Java** for scalable software solutions
+- **Java** for data structures and algorithms
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-habib&hide_progress=false&theme=dark)
 
@@ -15,7 +15,6 @@
 - Verifact
 - Gas Price Predictor  
   * ML-powered tool for forecasting gas prices.
-
 
 ## 🌟 Favorite Repositories
 - [sports-scribe](https://github.com/nour-habib/sports-scribe)
@@ -27,12 +26,12 @@
 ## 🎵 Fun Facts
 - 🏀 Basketball fan
 - 🎶 Music lover
-- 🍜 Always exploring new food spots
+- 🍜 Always exploring new food spots (Tacos, Burgers, Fish N Chips, etc)
 
 
 ---
 
-> *“Building smarter, more creative tech—one line at a time.”*
+> *“Building smarter, safer and more creative tech—one line at a time.”*
 
 <!-- Let's connect and collaborate on GenAI, sports analytics, or any cool project! -->
 
