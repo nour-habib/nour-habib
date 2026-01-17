@@ -25,14 +25,12 @@
 
 ## 🎵 Fun Facts
 - 🏀 Basketball fan
-- 🎶 Music lover
+- 🎶 Music lover (reggaeton, hiphop, r&b, etc)
 - 🍜 Always exploring new food spots (Tacos, Burgers, Fish N Chips, etc)
 
 
 ---
 
 > *“Building smarter, safer and more creative tech—one line at a time.”*
-
-<!-- Let's connect and collaborate on GenAI, sports analytics, or any cool project! -->
 
 
