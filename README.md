@@ -6,7 +6,7 @@
 - **Python** for data science, AI, and backend development
 - **Angular** for dynamic web applications (JavaScript, TypeScript)
 - **Swift** for iOS app development
-- **Java** for data structures and algorithms
+- **Java** for data structures and algorithms, Android
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-habib&hide_progress=false&theme=dark)
 
