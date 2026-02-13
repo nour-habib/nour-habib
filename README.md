@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills
 - **Python** for data science, AI, and backend development
-- **Angular** for dynamic web applications (JavaScript, TypeScript)
+- **Angular** for dynamic web applications (JavaScript, TypeScript, Node.js (NestJS))
 - **Swift** for iOS app development
 - **Java** for data structures and algorithms, Android
 
