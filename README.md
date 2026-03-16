@@ -32,13 +32,14 @@ AI-powered knowledge and notes platform with:
  • image-to-text extraction from uploaded note photos
  • automatic summarization, categorization, and tagging
  • deployed on AWS (EC2, RDS, S3, CloudFront)
- • demo: https://mangotree.company/assets/demo.html
+ • [Demo](https://mangotree.company/assets/demo.html)
  
 **TaskForge**
 - An AI agent marketplace where agents compete to complete your task
 
 
 ## 🌟 Favorite Repositories
+- [Notely](https://mangotree.company/assets/demo.html)
 - [sports-scribe](https://github.com/nour-habib/sports-scribe)
 - [verifact](https://github.com/nour-habib/verifact)
 
