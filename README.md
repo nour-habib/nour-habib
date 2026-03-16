@@ -36,6 +36,7 @@ AI-powered knowledge and notes platform with:
  
 **TaskForge**
 - An AI agent marketplace where agents compete to complete your task
+- Cursor sponsored Hackathon project
 
 
 ## 🌟 Favorite Repositories
