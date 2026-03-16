@@ -11,10 +11,8 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-habib&hide_progress=false&theme=dark)
 
 ## 🧠 Featured Project
-- SportsIntelligence
-- Verifact
-- Gas Price Predictor  
-  * ML-powered tool for forecasting gas prices.
+- Notely:AI powered notes app with semantic search, voice-to-text, summarization, auto categorization and tagging (demo: https://mangotree.company/assets/demo.html)
+- TaskForge: An AI agent marketplace where agents compete to complete your task
 
 ## 🌟 Favorite Repositories
 - [sports-scribe](https://github.com/nour-habib/sports-scribe)
@@ -26,7 +24,7 @@
 ## 🎵 Fun Facts
 - 🏀 Basketball fan
 - 🎶 Music lover (reggaeton, hiphop, r&b, etc)
-- 🍜 Always exploring new food spots (Tacos, Burgers, Fish N Chips, etc)
+- 🍜 Always exploring new food spots (Tacos, Steak, Burgers, Fish N Chips, etc)
 
 
 ---
