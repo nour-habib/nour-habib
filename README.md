@@ -26,13 +26,13 @@
 ## 🧠 Featured Project
 **Notely**
 AI-powered knowledge and notes platform with:
- • voice-to-text note creation & meeting transcription
- • embedding-based semantic search (PostgreSQL + pgvector)
- • AI chatbot assistant for searching and editing notes
- • image-to-text extraction from uploaded note photos
- • automatic summarization, categorization, and tagging
- • deployed on AWS (EC2, RDS, S3, CloudFront)
- • [Demo](https://mangotree.company/assets/demo.html)
+ - voice-to-text note creation & meeting transcription
+ - embedding-based semantic search (PostgreSQL + pgvector)
+ - AI chatbot assistant for searching and editing notes
+ - image-to-text extraction from uploaded note photos
+ - automatic summarization, categorization, and tagging
+ - deployed on AWS (EC2, RDS, S3, CloudFront)
+ - [Demo](https://mangotree.company/assets/demo.html)
  
 **TaskForge**
 - An AI agent marketplace where agents compete to complete your task
