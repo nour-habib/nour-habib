@@ -1,18 +1,42 @@
 # 👋 Hi, I'm Nour Habib!
 
-🚀 **AI Engineer** passionate about researching and building creative, intelligent systems
+**Software Developer** focused on AI systems, building LLM-powered applications, semantic retrieval platforms, and multi-agent workflows
 
 ## 🛠️ Skills
-- **Python** for data science, AI, and backend development
-- **Angular** for dynamic web applications (JavaScript, TypeScript, Node.js (NestJS))
-- **Swift** for iOS app development
-- **Java** for data structures and algorithms, Android
+**AI/Backend**
+ • Python
+ • FastAPI
+ • LLM pipelines
+ • multi-agent workflows
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-habib&hide_progress=false&theme=dark)
+ **Web**
+ • Angular
+ • TypeScript
+ • Node.js / NestJS
 
+ **Data / Infra**
+ • PostgreSQL
+ • pgvector
+ • AWS
+
+ **Other**
+ • Swift (iOS)
+ • Java (Android / DSA)
+ 
 ## 🧠 Featured Project
-- Notely:AI powered notes app with semantic search, voice-to-text, summarization, auto categorization and tagging (demo: https://mangotree.company/assets/demo.html)
-- TaskForge: An AI agent marketplace where agents compete to complete your task
+**Notely**
+AI-powered knowledge and notes platform with:
+ • voice-to-text note creation & meeting transcription
+ • embedding-based semantic search (PostgreSQL + pgvector)
+ • AI chatbot assistant for searching and editing notes
+ • image-to-text extraction from uploaded note photos
+ • automatic summarization, categorization, and tagging
+ • deployed on AWS (EC2, RDS, S3, CloudFront)
+ • demo: https://mangotree.company/assets/demo.html
+ 
+**TaskForge**
+- An AI agent marketplace where agents compete to complete your task
+
 
 ## 🌟 Favorite Repositories
 - [sports-scribe](https://github.com/nour-habib/sports-scribe)
