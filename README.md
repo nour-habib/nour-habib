@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nour Habib!
 
-**Software Developer** focused on AI systems, building LLM-powered applications, semantic retrieval platforms, and multi-agent workflows
+*Software Engineer** focused on building scalable backend and AI-powered systems, including production-ready applications, semantic retrieval platforms, and multi-agent workflows.
 
 ## 🛠️ Skills
 **AI/Backend**
