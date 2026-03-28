@@ -34,9 +34,8 @@ AI-powered knowledge and notes platform with:
  - deployed on AWS (EC2, RDS, S3, CloudFront)
  - [Demo](https://mangotree.company/assets/demo.html)
  
-**TaskForge**
-- An AI agent marketplace where agents compete to complete your task
-- Cursor sponsored Hackathon project
+**Situate Vancouver**
+- A real-time city monitoring system that aggregates live data and enables natural language queries over city events, powering an interactive map with up-to-date incident insights
 
 
 ## 🌟 Favorite Repositories
