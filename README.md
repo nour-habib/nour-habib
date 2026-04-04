@@ -36,7 +36,7 @@ AI-powered knowledge and notes platform with:
  
 **Situate Vancouver**
 - A real-time city monitoring system that aggregates live data and enables natural language queries over city events, powering an interactive map with up-to-date incident insights
-  https://www.situatevancouver.com
+- Check it out: https://www.situatevancouver.com
 
 
 ## 🌟 Favorite Repositories
