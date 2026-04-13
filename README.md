@@ -31,7 +31,8 @@
 - Uses 5+ different external APIs for data
 - Multi-agent AI pipeline processes and reasons over live city data to surface actionable insights from API responses
 - Personalized experience with saved routes, alert subscriptions, and user-specific notification preferences
-- Multi-layer caching strategy (Redis + Django ORM) 
+- Multi-layer caching strategy (Redis + Django ORM)
+- Deployed on AWS (EC2, RDS, S3, CloudFront)
 - Link: https://www.situatevancouver.com
 
 **Notely**
