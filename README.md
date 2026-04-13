@@ -6,11 +6,12 @@
 **AI/Backend**
  • Python
  • FastAPI
+ • Spring Boot
  • LLM pipelines
  • multi-agent workflows
 
  **Web**
- • Angular
+ • Angular / React
  • TypeScript
  • Node.js / NestJS
 
@@ -24,6 +25,15 @@
  • Java (Android / DSA)
  
 ## 🧠 Featured Project
+**Situate Vancouver**
+- A real-time city monitoring system that aggregates live data and enables natural language queries over city events, powering an interactive map with up-to-date incident insights
+- Monitors local traffic, accidents, constructions, natural disasters, outages, wildfires, earthquakes, border wait times
+- Uses 5+ different external APIs for data
+- Multi-agent AI pipeline processes and reasons over live city data to surface actionable insights from API responses
+- Personalized experience with saved routes, alert subscriptions, and user-specific notification preferences
+- Multi-layer caching strategy (Redis + Django ORM) 
+- Link: https://www.situatevancouver.com
+
 **Notely**
 AI-powered knowledge and notes platform with:
  - voice-to-text note creation & meeting transcription
@@ -33,10 +43,6 @@ AI-powered knowledge and notes platform with:
  - automatic summarization, categorization, and tagging
  - deployed on AWS (EC2, RDS, S3, CloudFront)
  - [Demo](https://mangotree.company/assets/demo.html)
- 
-**Situate Vancouver**
-- A real-time city monitoring system that aggregates live data and enables natural language queries over city events, powering an interactive map with up-to-date incident insights
-- Check it out: https://www.situatevancouver.com
 
 
 ## 🌟 Favorite Repositories
