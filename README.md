@@ -25,7 +25,7 @@
  • Java (Android / DSA)
  
 ## 🧠 Featured Project
-**Situate Vancouver**
+**Situate Vancouver** (React, FastAPI, Django, OpenAI)
 - A real-time city monitoring system that aggregates live data and enables natural language queries over city events, powering an interactive map with up-to-date incident insights
 - Monitors local traffic, accidents, constructions, natural disasters, outages, wildfires, earthquakes, border wait times
 - Uses 5+ different external APIs for data
@@ -35,7 +35,7 @@
 - Deployed on AWS (EC2, RDS, S3, CloudFront)
 - Link: https://www.situatevancouver.com
 
-**Notely**
+**Notely** (Angular/Ionic, NestJS, FastAPI, OpenAI)
 AI-powered knowledge and notes platform with:
  - voice-to-text note creation & meeting transcription
  - embedding-based semantic search (PostgreSQL + pgvector)
