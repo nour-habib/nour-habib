@@ -36,7 +36,7 @@
 
 
 **Situate Vancouver** (React, FastAPI, Django, OpenAI, PostgreSQL, PostGIS)
-** A real-time city monitoring system that aggregates live data and enables natural language queries over city events, powering an interactive map with up-to-date incident insights**
+**A real-time city monitoring system that aggregates live data and enables natural language queries over city events, powering an interactive map with up-to-date incident insights**
 - Monitors local traffic, accidents, constructions, natural disasters, outages, wildfires, earthquakes, border wait times
 - Uses 5+ different external APIs for data
 - Multi-agent AI pipeline processes and reasons over live city data to surface actionable insights from API responses
