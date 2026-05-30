@@ -33,7 +33,7 @@
 - 3-tier response cache: LLM responses are cached in-memory (Map), then SQLite, then API; first session import costs ~40s, every repeat call returns in under 100ms
 - Hash-based stale detection: SHA256 hashes of each memory card's source files are stored at import time; when files change, affected cards are automatically marked stale and excluded from future context
 - Agent context injection: before every new session, relevant non-stale memories are retrieved by keyword search and written to .witsmith/context.md, which a Cursor rule injects into the agent's context so it's warned about past failures before writing a single line
-- https://blackbox-agents.pages.dev/
+- https://github.com/aristi1215/Withsmith
 
 
 **Situate Vancouver** (React, FastAPI, Django, OpenAI, PostgreSQL, PostGIS)
