@@ -24,15 +24,16 @@
  • Swift (iOS)
  • Java (Android / DSA)
  
-## 🧠 Featured Project
+## 🧠 Projects
+
+**PeriLog** (React/Next.js, Spring Boot, FastAPI, Anthropic)
+**AI-driven health app for peritoneal dialysis patients that uses official clinical guidelines to analyzes vitals, ultrafiltration, nutrition, water intake and patient-reported symptoms to generate a report providing insight on which dialysate solutions to use, flagging anomalies, explain symptoms and when to contact their doctor**
+- 
+
 **Witsmith** (React, Node.js, TypeScript, Python, CLōD)
 **A developer tool that gives AI coding agents persistent memory and a safety contract — so they learn from past mistakes and don't repeat them**
 - Session recording: witsmith start/run/finish captures every command, its allow/ask/deny decision, stdout/stderr, git diff, and agent trace into a structured evidence bundle per session
 - Self-evolving safety contract: every command is checked against AGENT_WIT.yaml via pattern matching, a SQLite verdict cache, and an LLM fallback; denied commands can permanently amend the contract so future agents are blocked instantly without an LLM call
-- LLM memory generation: the evidence bundle is analysed by CLōD in parallel (summarize, infer hypotheses, extract typed claims) to produce structured memory cards tagged with source files, retrieval keywords, and stale-detection paths
-- 3-tier response cache: LLM responses are cached in-memory (Map), then SQLite, then API; first session import costs ~40s, every repeat call returns in under 100ms
-- Hash-based stale detection: SHA256 hashes of each memory card's source files are stored at import time; when files change, affected cards are automatically marked stale and excluded from future context
-- Agent context injection: before every new session, relevant non-stale memories are retrieved by keyword search and written to .witsmith/context.md, which a Cursor rule injects into the agent's context so it's warned about past failures before writing a single line
 - https://github.com/aristi1215/Withsmith
 
 
@@ -41,20 +42,12 @@
 - Monitors local traffic, accidents, constructions, natural disasters, outages, wildfires, earthquakes, border wait times
 - Uses 5+ different external APIs for data
 - Multi-agent AI pipeline processes and reasons over live city data to surface actionable insights from API responses
-- Personalized experience with saved routes, alert subscriptions, and user-specific notification preferences
-- Multi-layer caching strategy (Redis + Django ORM)
-- Deployed on AWS (EC2, RDS, S3, CloudFront)
-- Link: https://www.situatevancouver.com
+- Deployed on AWS: https://www.situatevancouver.com
 
 **Notely** 
 - (Angular/Ionic, NestJS, FastAPI, OpenAI, PostgreSQL)
-**AI-powered knowledge and notes platform**
- - voice-to-text note creation & meeting transcription
- - embedding-based semantic search (PostgreSQL + pgvector)
- - AI chatbot assistant for searching and editing notes
- - image-to-text extraction from uploaded note photos
- - automatic summarization, categorization, and tagging
- - deployed on AWS (EC2, RDS, S3, CloudFront)
+**AI-powered note management system**
+ - Features chatbot, vectorization with pgvector, semantic search, text extraction (from images, pdfs, documents), summarization, categorization
  - [Demo](https://mangotree.company/assets/demo.html)
 
 
