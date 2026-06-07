@@ -27,8 +27,9 @@
 ## 🧠 Projects
 
 **PeriLog** (React/Next.js, Spring Boot, FastAPI, Anthropic)
-**AI-driven health app for peritoneal dialysis patients that uses official clinical guidelines to analyzes vitals, ultrafiltration, nutrition, water intake and patient-reported symptoms to generate a report providing insight on which dialysate solutions to use, flagging anomalies, explain symptoms and when to contact their doctor**
-- 
+**AI-driven health app for peritoneal dialysis patients**
+- Uses official clinical guidelines to analyzes vitals, ultrafiltration, nutrition, water intake and patient-reported symptoms to generate a report providing insight on which dialysate solutions to use, flagging anomalies, explain symptoms and when to contact their doctor**
+- https://www.perilog.app
 
 **Witsmith** (React, Node.js, TypeScript, Python, CLōD)
 **A developer tool that gives AI coding agents persistent memory and a safety contract — so they learn from past mistakes and don't repeat them**
