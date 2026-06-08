@@ -28,7 +28,7 @@
 
 **PeriLog** (React/Next.js, Spring Boot, FastAPI, Anthropic)
 **AI-driven health app for peritoneal dialysis patients**
-- Uses official clinical guidelines to analyzes vitals, ultrafiltration, nutrition, water intake and patient-reported symptoms to generate a report providing insight on which dialysate solutions to use, flagging anomalies, explain symptoms and when to contact their doctor**
+- Uses official clinical guidelines to analyze vitals, ultrafiltration, nutrition, water intake and patient-reported symptoms to generate a report providing insight on which dialysate solutions to use, describe potential problems, explain symptoms and when to contact their doctor**
 - https://www.perilog.app
 
 **Witsmith** (React, Node.js, TypeScript, Python, CLōD)
