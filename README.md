@@ -31,6 +31,7 @@
 - Monitors local traffic, accidents, constructions, natural disasters, outages, wildfires, earthquakes, border wait times
 - Uses 5+ different external APIs for data
 - Multi-agent AI pipeline processes and reasons over live city data to surface actionable insights from API responses
+- Includes navigation and AI radio station giving the latest updates on local traffic, weather and sports
 - Deployed on AWS: https://www.situatevancouver.com
 
 **Notely** 
